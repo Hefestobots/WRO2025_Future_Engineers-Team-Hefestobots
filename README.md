@@ -9,7 +9,7 @@
 
 
 ## Content of Repository 
-* `Planes` - 3D CAD files
+* `Planes` - 3D CAD photos
 * `Others` - Other essential files
 * `Electronic_Components` - List of electronic components
 * `t-photos` - Team photos
