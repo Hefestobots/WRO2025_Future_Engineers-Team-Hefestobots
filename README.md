@@ -18,7 +18,10 @@
 &nbsp; 
 
 # Team Members
-
-* Cynthia Brandt, 19, cynthiabrandt08@gmail.com
 * Brayan Mendoza, 21, brayanmendozab@gmail.com
+* Cynthia Brandt, 19, cynthiabrandt08@gmail.com
 * Brian Landinez, 20, brianlandinez@gmail.com
+
+&nbsp;
+
+<img src="/t-photos/Team Hefestobots.jpg" height="600">
